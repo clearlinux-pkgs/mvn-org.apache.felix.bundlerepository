@@ -4,7 +4,7 @@
 #
 Name     : mvn-org.apache.felix.bundlerepository
 Version  : 1.6.2
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.2/org.apache.felix.bundlerepository-1.6.2.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.2/org.apache.felix.bundlerepository-1.6.2.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.2/org.apache.felix.bundlerepository-1.6.2.pom
